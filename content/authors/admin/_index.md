@@ -33,8 +33,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: KARPOV.COURSES
+    institution: Онлайн - школа Karpov Courses
+    year: 2023
+  - course: Stepik (Обработка данных и визуализация)
+    institution: RUDN
+    year: 2023
+    
  
       
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
