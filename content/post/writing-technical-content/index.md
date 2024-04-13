@@ -1,6 +1,6 @@
 ---
 title: Язык разметки Markdown
-date: 2019-07-12
+date: 2024-03-18
 math: true
 image:
   placement: 2

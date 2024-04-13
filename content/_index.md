@@ -124,7 +124,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Посты
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -151,7 +151,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Проекты
       filters:
         folders:
           - project
@@ -177,7 +177,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Галерея
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -226,29 +226,27 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Контакты
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: tsoppaeva@yandex.ru
+      phone: 8 960 690 96 95
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Миклухо-Маклая 5
+        city: Москва
+        region: 77
+        country: Россия
+        country_code: РОС
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Будни 08:00 - 17:00'
+        - 'Выходные 13:00 - 15:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '55.65495'
+        longitude: '37.49983'  
       contact_links:
         - icon: twitter
           icon_pack: fab

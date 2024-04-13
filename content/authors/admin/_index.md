@@ -91,21 +91,33 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://elibrary.ru/defaultx.asp
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/evatsoppa
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/
+  - icon: orcid
+    icon_pack: fab
+    link: https://support.orcid.org/hc/en-us
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Eva-Tsoppa
+  - icon: autoprefixer
+    icon_pack: fab
+    link: https://independent.academia.edu/ЕваЦоппа
+  - icon: archive
+    icon_pack: fas
+    link: https://arxiv.org/user/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
